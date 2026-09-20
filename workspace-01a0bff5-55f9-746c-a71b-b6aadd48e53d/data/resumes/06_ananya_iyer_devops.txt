@@ -1,0 +1,20 @@
+Ananya Iyer
+DevOps Engineer
+ananya.iyer@example.com | +91 99400 28374 | Chennai, India
+
+SUMMARY
+DevOps engineer with 5 years of experience automating cloud infrastructure and delivery pipelines.
+
+SKILLS
+AWS, Terraform, Kubernetes, Docker, Jenkins, CI/CD, Linux, Bash, Python, Prometheus, Grafana, Ansible, Git
+
+EXPERIENCE
+DevOps Engineer — CloudNine Systems (2021 – Present)
+- Managed 60+ microservices on EKS; Terraform IaC reduced environment spin-up from 3 days to 40 minutes.
+- Built golden-pipeline CI/CD (Jenkins + GitHub Actions) used by 9 teams.
+
+Cloud Engineer — Infrax (2019 – 2021)
+- Linux fleet automation with Ansible; monitoring with Prometheus and Grafana.
+
+EDUCATION
+B.E. Computer Science, Anna University — 2019

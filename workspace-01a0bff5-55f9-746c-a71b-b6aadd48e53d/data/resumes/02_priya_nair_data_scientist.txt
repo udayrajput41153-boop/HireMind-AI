@@ -1,0 +1,22 @@
+Priya Nair
+Data Scientist
+priya.nair@example.com | +91 98450 77213 | Bengaluru, India
+
+SUMMARY
+Data scientist with 4 years of experience in predictive modeling, experimentation and stakeholder analytics.
+
+SKILLS
+Python, R, SQL, scikit-learn, XGBoost, Machine Learning, Statistics, A/B Testing, NLP, Pandas, Data Analysis, Tableau, Git
+
+EXPERIENCE
+Data Scientist — Zestly (2022 – Present)
+- Own pricing-optimization models; uplift of 9% in conversion through rigorous A/B testing.
+- Built churn-prediction system with scikit-learn and XGBoost used by retention teams.
+
+Junior Data Scientist — Medlytics (2020 – 2022)
+- Clinical-text NLP pipelines and forecasting for hospital operations.
+- Automated weekly reporting in Python and SQL.
+
+EDUCATION
+M.Sc. Statistics, University of Mumbai — 2020
+B.Sc. Mathematics — 2018

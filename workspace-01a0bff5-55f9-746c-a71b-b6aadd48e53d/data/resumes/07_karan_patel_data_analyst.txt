@@ -1,0 +1,20 @@
+Karan Patel
+Data Analyst
+karan.patel@example.com | +91 97250 66140 | Ahmedabad, India
+
+SUMMARY
+Data analyst with 1.5 years of experience turning business data into dashboards and decisions.
+
+SKILLS
+SQL, Excel, Power BI, Data Analysis, Statistics, Python, Data Visualization, Communication
+
+EXPERIENCE
+Data Analyst — RetailWave (2024 – Present)
+- Built 20+ Power BI dashboards for sales and inventory; weekly leadership reporting.
+- SQL-based cohort analysis that improved campaign ROI by 12%.
+
+Business Analyst Intern — FinEdge (2023 – 2024)
+- Excel automation and MIS reporting for the credit team.
+
+EDUCATION
+BBA, Gujarat University — 2023

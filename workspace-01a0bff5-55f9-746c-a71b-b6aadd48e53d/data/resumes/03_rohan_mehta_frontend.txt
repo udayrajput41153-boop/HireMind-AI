@@ -1,0 +1,20 @@
+Rohan Mehta
+Frontend Developer
+rohan.mehta@example.com | +91 90040 33218 | Mumbai, India
+
+SUMMARY
+Frontend developer with 3.5 years of experience crafting high-performance React interfaces for SaaS products.
+
+SKILLS
+React, TypeScript, JavaScript, Next.js, Redux, Tailwind, HTML, CSS, Jest, Webpack, Git, REST API
+
+EXPERIENCE
+Frontend Developer — Zylker SaaS (2022 – Present)
+- Rebuilt analytics dashboard in React + TypeScript; Lighthouse performance 52 → 96.
+- Design-system components used across 4 product teams.
+
+UI Developer — PixelWorks Agency (2021 – 2022)
+- Delivered 12 marketing sites and one React e-commerce storefront.
+
+EDUCATION
+B.E. Information Technology, Mumbai University — 2021

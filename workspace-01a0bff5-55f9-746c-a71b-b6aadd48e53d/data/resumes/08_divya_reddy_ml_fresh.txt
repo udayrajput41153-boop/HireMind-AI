@@ -1,0 +1,22 @@
+Divya Reddy
+ML Engineer (M.Tech, 2025)
+divya.reddy@example.com | +91 96520 88431 | Hyderabad, India
+
+SUMMARY
+M.Tech AI graduate with strong project portfolio in deep learning and NLP; 8 months internship experience.
+
+SKILLS
+Python, PyTorch, TensorFlow, Machine Learning, Deep Learning, NLP, Computer Vision, OpenCV, Transformers, Pandas, Git
+
+PROJECTS
+- RAG chatbot over legal documents with transformer embeddings and vector search (LLM, NLP).
+- Real-time pothole detection with YOLO/OpenCV — 92% mAP on custom dataset.
+- Sentiment analysis of Telugu reviews using fine-tuned BERT.
+
+EXPERIENCE
+ML Intern — CogniLabs (Jan 2025 – Aug 2025, 0.7 years of experience)
+- Fine-tuned vision models and wrote inference APIs with FastAPI.
+
+EDUCATION
+M.Tech Artificial Intelligence, IIIT Hyderabad — 2025
+B.Tech CSE — 2023

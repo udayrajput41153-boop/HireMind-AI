@@ -1,0 +1,20 @@
+Arjun Verma
+Mobile Developer
+arjun.verma@example.com | +91 98711 30954 | New Delhi, India
+
+SUMMARY
+Mobile developer with 4 years of experience across Android, iOS and cross-platform apps.
+
+SKILLS
+Kotlin, Android, Swift, iOS, Flutter, Firebase, REST API, Git, CI/CD
+
+EXPERIENCE
+Mobile Developer — AppWave (2022 – Present)
+- Shipped consumer fitness app (Flutter + Firebase) with 500k downloads, 4.6★.
+- CI/CD via GitHub Actions with automated store deployments.
+
+Android Developer — MobiTech (2020 – 2022)
+- Native Kotlin apps for logistics clients; offline-first sync engine.
+
+EDUCATION
+B.Tech CSE, DTU Delhi — 2020

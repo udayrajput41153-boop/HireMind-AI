@@ -1,0 +1,23 @@
+Data Analyst — RetailWave (Ahmedabad / Hybrid)
+
+About the role
+We need a data analyst to turn retail data into insight: dashboards, cohort analysis and experimentation for category and marketing teams.
+
+Requirements (must have)
+- Advanced SQL for analysis and reporting
+- Excel for quick exploration and modeling
+- Power BI or Tableau dashboard development
+- Statistics fundamentals and structured problem solving
+- 1+ years of experience in analytics
+- Bachelor's degree in any quantitative or business discipline
+
+Nice to have
+- Python for automation and deeper analysis
+- A/B testing and experimentation experience
+- Communication skills for stakeholder storytelling
+
+Responsibilities
+- Build and maintain Power BI dashboards for sales and inventory
+- Analyze campaigns with SQL and statistics, present findings
+- Partner with marketing on A/B testing roadmaps
+- Develop self-serve datasets for business teams

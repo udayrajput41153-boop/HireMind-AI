@@ -1,0 +1,20 @@
+Sneha Kulkarni
+Full-Stack Developer
+sneha.kulkarni@example.com | +91 98600 91827 | Pune, India
+
+SUMMARY
+Full-stack developer with 4 years of experience shipping customer-facing web apps end to end.
+
+SKILLS
+JavaScript, TypeScript, React, Node.js, Express, Next.js, MongoDB, PostgreSQL, REST API, Docker, AWS, Git, CI/CD, Agile
+
+EXPERIENCE
+Full-Stack Developer — UrbanKart (2021 – Present)
+- Built order-management platform (React + Node.js + PostgreSQL) handling 30k orders/day.
+- Introduced CI/CD with GitHub Actions and Docker; release cycle weekly → daily.
+
+Software Developer — Trice Technologies (2020 – 2021)
+- CRUD microservices with Express and MongoDB; payment-gateway integrations.
+
+EDUCATION
+B.Tech Computer Science, VJTI Mumbai — 2020

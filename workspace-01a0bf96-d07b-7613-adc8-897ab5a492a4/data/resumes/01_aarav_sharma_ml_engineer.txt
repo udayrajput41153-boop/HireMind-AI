@@ -1,0 +1,22 @@
+Aarav Sharma
+Machine Learning Engineer
+aarav.sharma@example.com | +91 98220 14501 | Pune, India
+
+SUMMARY
+Machine learning engineer with 5 years of experience building and deploying production ML systems for fintech and e-commerce.
+
+SKILLS
+Python, PyTorch, TensorFlow, scikit-learn, Machine Learning, Deep Learning, NLP, SQL, Docker, Kubernetes, AWS, SageMaker, MLflow, MLOps, Git
+
+EXPERIENCE
+Senior ML Engineer — Finlytics AI (2022 – Present)
+- Built fraud-detection models (XGBoost + deep learning) serving 4M transactions/day, cutting fraud losses by 31%.
+- Designed MLOps pipelines with Docker, Kubernetes and AWS SageMaker; reduced model release time from 2 weeks to 1 day.
+- Fine-tuned transformer models for customer-support intent classification (NLP).
+
+Data Scientist — ShopStack (2019 – 2022)
+- Developed recommendation systems and demand-forecasting models in Python and scikit-learn.
+- Built ETL pipelines and dashboards with SQL and Airflow.
+
+EDUCATION
+B.Tech Computer Science, COEP Pune — 2019

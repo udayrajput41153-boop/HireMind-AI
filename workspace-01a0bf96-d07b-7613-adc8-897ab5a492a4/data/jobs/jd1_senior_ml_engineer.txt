@@ -1,0 +1,24 @@
+Senior Machine Learning Engineer — Finlytics AI (Pune / Remote)
+
+About the role
+We are looking for a senior machine learning engineer to design, train and deploy ML models that power fraud detection and personalization for millions of users.
+
+Requirements (must have)
+- Strong Python and Machine Learning fundamentals
+- Hands-on with PyTorch or TensorFlow for deep learning
+- Solid SQL for data extraction and validation
+- Experience with Docker and MLOps practices to ship models to production
+- 4+ years of experience in machine learning or data science roles
+- Bachelor's degree in Computer Science, Engineering or related field
+
+Nice to have
+- Kubernetes for model serving
+- AWS and SageMaker experience
+- NLP and large language models (LLM) exposure
+- Spark for large-scale data processing
+
+Responsibilities
+- Design and develop production ML models for fraud and recommendations
+- Build and maintain MLOps pipelines with Docker and Kubernetes
+- Collaborate with data engineers on feature pipelines and SQL data marts
+- Mentor junior data scientists and lead model review sessions

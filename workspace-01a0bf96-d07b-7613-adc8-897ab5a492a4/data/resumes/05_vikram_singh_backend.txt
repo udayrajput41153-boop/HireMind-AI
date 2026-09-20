@@ -1,0 +1,20 @@
+Vikram Singh
+Senior Backend Engineer
+vikram.singh@example.com | +91 98100 45092 | Gurugram, India
+
+SUMMARY
+Backend engineer with 6 years of experience designing scalable Java microservices for banking and payments.
+
+SKILLS
+Java, Spring Boot, Microservices, MySQL, Kafka, Redis, REST API, System Design, Docker, Kubernetes, Git, Agile
+
+EXPERIENCE
+Senior Backend Engineer — PayCore (2021 – Present)
+- Own settlement microservices (Spring Boot + Kafka) processing ₹800 Cr/month.
+- Cut p99 latency 42% via Redis caching and query tuning.
+
+Backend Developer — BancSoft (2018 – 2021)
+- Core-banking REST APIs, migration from monolith to microservices.
+
+EDUCATION
+B.Tech Computer Science, NIT Kurukshetra — 2018

@@ -1,0 +1,23 @@
+Full-Stack Web Developer — UrbanKart (Bengaluru)
+
+About the role
+Join our commerce squad to build customer-facing web features end to end, from React UIs to Node.js services.
+
+Requirements (must have)
+- Strong JavaScript and React experience
+- Backend development with Node.js and REST API design
+- Working knowledge of Git and modern CI workflows
+- 2+ years of experience building production web applications
+- Bachelor's degree or equivalent practical experience
+
+Nice to have
+- TypeScript at scale
+- Next.js and server-side rendering
+- MongoDB or PostgreSQL
+- AWS cloud deployments
+
+Responsibilities
+- Develop and ship features across the React frontend and Node.js backend
+- Build and consume REST APIs for web and mobile clients
+- Write tests and participate in code reviews
+- Collaborate with designers and product managers in an Agile team

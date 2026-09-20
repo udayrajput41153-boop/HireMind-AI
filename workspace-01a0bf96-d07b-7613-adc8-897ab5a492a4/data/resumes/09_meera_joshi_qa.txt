@@ -1,0 +1,20 @@
+Meera Joshi
+QA Automation Engineer
+meera.joshi@example.com | +91 98903 51267 | Pune, India
+
+SUMMARY
+QA automation engineer with 4 years of experience building test frameworks for web and API products.
+
+SKILLS
+Selenium, Cypress, Python, Java, Postman, API Testing, CI/CD, Jenkins, JUnit, Manual Testing, Agile, Git
+
+EXPERIENCE
+QA Automation Engineer — TestCraft (2022 – Present)
+- Designed Cypress + Selenium hybrid framework covering 1,200 scenarios; regression time cut 65%.
+- API test suites with Postman integrated into Jenkins CI/CD.
+
+QA Engineer — Softline Solutions (2020 – 2022)
+- Manual and automated testing for HR SaaS product.
+
+EDUCATION
+B.E. Computer Engineering, Pune University — 2020
